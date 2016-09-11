@@ -1,0 +1,32 @@
+{
+  "name": "mongo_scraping_hw",
+  "version": "1.0.0",
+  "description": "scraping homework with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizaurr/mongodb_homework.git"
+  },
+  "keywords": [
+    "mongoDB",
+    "and",
+    "scraping"
+  ],
+  "author": "Elizaur Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizaurr/mongodb_homework/issues"
+  },
+  "homepage": "https://github.com/elizaurr/mongodb_homework#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  }
+}
